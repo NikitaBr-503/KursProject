@@ -1,0 +1,14 @@
+E:\Tests\Tests\Tests\bin\Release\Tests.exe.config
+E:\Tests\Tests\Tests\bin\Release\Tests.exe
+E:\Tests\Tests\Tests\bin\Release\Tests.pdb
+E:\Tests\Tests\Tests\bin\Release\Newtonsoft.Json.dll
+E:\Tests\Tests\Tests\bin\Release\Newtonsoft.Json.xml
+E:\Tests\Tests\Tests\obj\Release\Tests.csprojResolveAssemblyReference.cache
+E:\Tests\Tests\Tests\obj\Release\Tests.TestForm.resources
+E:\Tests\Tests\Tests\obj\Release\Tests.Form2.resources
+E:\Tests\Tests\Tests\obj\Release\Tests.Form3.resources
+E:\Tests\Tests\Tests\obj\Release\Tests.Form4.resources
+E:\Tests\Tests\Tests\obj\Release\Tests.Properties.Resources.resources
+E:\Tests\Tests\Tests\obj\Release\Tests.csproj.GenerateResource.Cache
+E:\Tests\Tests\Tests\obj\Release\Tests.exe
+E:\Tests\Tests\Tests\obj\Release\Tests.pdb
